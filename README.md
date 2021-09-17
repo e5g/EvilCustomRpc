@@ -1,7 +1,5 @@
 # EvilCustomRpc
-A custom rpc client for discord, allowing you to change your status for discord. 
+*A custom RPC client for discord, allowing you to change your status for discord.*
 
-
-Requires Python 3.0 or higher.
-
+**Python 3.0 or higher is required**
 
